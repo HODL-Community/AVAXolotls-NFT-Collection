@@ -773,7 +773,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Underwater"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -784,12 +784,12 @@
                 "value": "Mint"
             },
             {
-                "trait_type": "Clothing",
+                "trait_type": "Accessory",
                 "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Toothy Grin"
+                "trait_type": "Clothing",
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -804,8 +804,8 @@
                 "value": "AVAX Cap"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Toothy Grin"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -6028,7 +6028,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Underwater"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -6039,12 +6039,12 @@
                 "value": "Pink"
             },
             {
-                "trait_type": "Clothing",
+                "trait_type": "Accessory",
                 "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Tongue Out"
+                "trait_type": "Clothing",
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -6059,8 +6059,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10220,7 +10220,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Lava"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10231,12 +10231,12 @@
                 "value": "Red"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Purple Jacket"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Grin"
+                "trait_type": "Clothing",
+                "value": "Purple Jacket"
             },
             {
                 "trait_type": "Eyes",
@@ -10251,8 +10251,8 @@
                 "value": "Beret"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Grin"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10267,7 +10267,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Lava"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10278,12 +10278,12 @@
                 "value": "Blue"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Purple Jacket"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Grin"
+                "trait_type": "Clothing",
+                "value": "Purple Jacket"
             },
             {
                 "trait_type": "Eyes",
@@ -10298,8 +10298,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Grin"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10361,7 +10361,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Planet"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10372,12 +10372,12 @@
                 "value": "Green"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Construction Vest"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Tongue Out"
+                "trait_type": "Clothing",
+                "value": "Construction Vest"
             },
             {
                 "trait_type": "Eyes",
@@ -10392,8 +10392,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10408,7 +10408,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Planet"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10419,12 +10419,12 @@
                 "value": "Green"
             },
             {
-                "trait_type": "Clothing",
-                "value": "None"
+                "trait_type": "Accessory",
+                "value": "Price Tag"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Fish"
+                "trait_type": "Clothing",
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -10439,8 +10439,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "Price Tag"
+                "trait_type": "Mouth",
+                "value": "Fish"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10455,7 +10455,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Underwater"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10466,12 +10466,12 @@
                 "value": "Green"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Blue Jacket"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Tongue Out"
+                "trait_type": "Clothing",
+                "value": "Blue Jacket"
             },
             {
                 "trait_type": "Eyes",
@@ -10486,8 +10486,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10502,7 +10502,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Underwater"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10513,12 +10513,12 @@
                 "value": "Green"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Space Suit"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Grin"
+                "trait_type": "Clothing",
+                "value": "Space Suit"
             },
             {
                 "trait_type": "Eyes",
@@ -10533,8 +10533,8 @@
                 "value": "Crown"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Grin"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10549,7 +10549,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Planet"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10560,12 +10560,12 @@
                 "value": "Red"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Parka"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Grin"
+                "trait_type": "Clothing",
+                "value": "Parka"
             },
             {
                 "trait_type": "Eyes",
@@ -10580,8 +10580,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Grin"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -10596,7 +10596,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Planet"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10607,12 +10607,12 @@
                 "value": "Blue"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Blue Jacket"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Smoking"
+                "trait_type": "Clothing",
+                "value": "Blue Jacket"
             },
             {
                 "trait_type": "Eyes",
@@ -10627,8 +10627,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Smoking"
             }
         ],
         "compiler": "HashLips Art Engine"

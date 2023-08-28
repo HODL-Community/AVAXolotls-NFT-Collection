@@ -291,7 +291,11 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Lava"
+                "value": "Ruins"
+            },
+            {
+                "trait_type": "Back",
+                "value": "AK-47"
             },
             {
                 "trait_type": "Skin",
@@ -299,19 +303,19 @@
             },
             {
                 "trait_type": "Gills",
-                "value": "Blue"
+                "value": "Black"
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "ETH Gillrings"
             },
             {
                 "trait_type": "Clothing",
-                "value": "Purple Jacket"
-            },
-            {
-                "trait_type": "Mouth",
-                "value": "Toothy Grin"
+                "value": "Mobster"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Closed Eyes"
+                "value": "Pink"
             },
             {
                 "trait_type": "Glasses",
@@ -319,11 +323,11 @@
             },
             {
                 "trait_type": "Hat",
-                "value": "Traffic Cone"
+                "value": "Pinstripe Fedora"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Toothy Grin"
             }
         ],
         "compiler": "HashLips Art Engine"

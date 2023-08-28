@@ -11,6 +11,10 @@
             "value": "Lava"
         },
         {
+            "trait_type": "Back",
+            "value": "Sword"
+        },
+        {
             "trait_type": "Skin",
             "value": "Dark Green"
         },

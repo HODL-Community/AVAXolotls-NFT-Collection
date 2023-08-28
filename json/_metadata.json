@@ -3021,6 +3021,10 @@
                 "value": "Underwater"
             },
             {
+                "trait_type": "Back",
+                "value": "Dual Katanas"
+            },
+            {
                 "trait_type": "Skin",
                 "value": "Pink"
             },
@@ -3029,16 +3033,16 @@
                 "value": "Pink"
             },
             {
-                "trait_type": "Clothing",
-                "value": "AVAX Jacket"
+                "trait_type": "Accessory",
+                "value": "Silver Gillrings"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Smoking"
+                "trait_type": "Clothing",
+                "value": "Avax Jacket"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Closed Eyes"
+                "value": "Pink"
             },
             {
                 "trait_type": "Glasses",
@@ -3046,11 +3050,11 @@
             },
             {
                 "trait_type": "Hat",
-                "value": "None"
+                "value": "Knight Helmet (Open)"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Smoking"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -4283,6 +4287,10 @@
                 "value": "Ruins"
             },
             {
+                "trait_type": "Back",
+                "value": "Trident"
+            },
+            {
                 "trait_type": "Skin",
                 "value": "Purple"
             },
@@ -4291,12 +4299,12 @@
                 "value": "Red"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Parka"
+                "trait_type": "Accessory",
+                "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Worm Slurp"
+                "trait_type": "Clothing",
+                "value": "Parka"
             },
             {
                 "trait_type": "Eyes",
@@ -4311,12 +4319,8 @@
                 "value": "AVAX Cap"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
-            },
-            {
-                "trait_type": "Back",
-                "value": "Trident"
+                "trait_type": "Mouth",
+                "value": "Worm Slurp"
             }
         ],
         "compiler": "HashLips Art Engine"
@@ -6901,6 +6905,10 @@
                 "value": "Lava"
             },
             {
+                "trait_type": "Back",
+                "value": "Sword"
+            },
+            {
                 "trait_type": "Skin",
                 "value": "Blue"
             },
@@ -6909,12 +6917,12 @@
                 "value": "Blue"
             },
             {
-                "trait_type": "Clothing",
-                "value": "Blue Jacket"
+                "trait_type": "Accessory",
+                "value": "Silver Gillrings"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Fish"
+                "trait_type": "Clothing",
+                "value": "Cowboy"
             },
             {
                 "trait_type": "Eyes",
@@ -6926,11 +6934,11 @@
             },
             {
                 "trait_type": "Hat",
-                "value": "None"
+                "value": "Cowboy"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Fish"
             }
         ],
         "compiler": "HashLips Art Engine"

@@ -10314,7 +10314,7 @@
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Underwater"
+                "value": "Flames"
             },
             {
                 "trait_type": "Skin",
@@ -10325,12 +10325,12 @@
                 "value": "Mint"
             },
             {
-                "trait_type": "Clothing",
+                "trait_type": "Accessory",
                 "value": "None"
             },
             {
-                "trait_type": "Mouth",
-                "value": "Tongue Out"
+                "trait_type": "Clothing",
+                "value": "None"
             },
             {
                 "trait_type": "Eyes",
@@ -10345,8 +10345,8 @@
                 "value": "None"
             },
             {
-                "trait_type": "Accessory",
-                "value": "None"
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
             }
         ],
         "compiler": "HashLips Art Engine"

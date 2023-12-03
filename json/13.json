@@ -20,7 +20,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "AVAX Jacket"
+            "value": "Knight Armour"
         },
         {
             "trait_type": "Mouth",
@@ -36,11 +36,15 @@
         },
         {
             "trait_type": "Hat",
-            "value": "None"
+            "value": "Knight Helmet (Open)"
         },
         {
             "trait_type": "Accessory",
             "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Sword"
         }
     ],
     "compiler": "HashLips Art Engine"

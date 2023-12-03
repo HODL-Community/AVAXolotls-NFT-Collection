@@ -8,7 +8,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Planet"
+            "value": "Underwater"
         },
         {
             "trait_type": "Skin",
@@ -24,7 +24,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Worm Slurp"
+            "value": "Tongue Out"
         },
         {
             "trait_type": "Eyes",
@@ -36,7 +36,7 @@
         },
         {
             "trait_type": "Hat",
-            "value": "AVAX Cap"
+            "value": "None"
         },
         {
             "trait_type": "Accessory",
@@ -45,6 +45,10 @@
         {
             "trait_type": "Named",
             "value": "Yes"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
         }
     ],
     "compiler": "HashLips Art Engine"

@@ -32,7 +32,7 @@
         },
         {
             "trait_type": "Glasses",
-            "value": "Red Shades"
+            "value": "None"
         },
         {
             "trait_type": "Hat",
@@ -48,7 +48,7 @@
         },
         {
             "trait_type": "Back",
-            "value": "Dual Katanas"
+            "value": "None"
         }
     ],
     "compiler": "HashLips Art Engine"

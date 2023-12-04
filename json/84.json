@@ -20,7 +20,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Black Suit"
+            "value": "White Suit"
         },
         {
             "trait_type": "Mouth",
@@ -40,10 +40,6 @@
         },
         {
             "trait_type": "Accessory",
-            "value": "None"
-        },
-        {
-            "trait_type": "Back",
             "value": "None"
         }
     ],
